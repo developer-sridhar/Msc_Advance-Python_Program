@@ -40,11 +40,11 @@
             --> Open 'opencv.py' file any TextEditor Like 'VSCode, PyCharm, Spyder etc.
             
             Copy & Paste the below three line Code:
-                ```http
+            
                         import cv2
                         print("OpenCV version:", cv2.__version__)
                         print("OpenCV Successfully Installed")
-                ```
+           
                 
 
             --> Open the code on Visual Studio Code (VS Code)
