@@ -25,6 +25,7 @@
 ## Step 2: Check Python Installed or Not (Also, If you Installed Already)
             -->  Go to Open Command Prompt (In Search 'CMD')
             -->  python --version    (& Enter) then,
+            -->  python get-pip.py
             -->  pip --version       (& Enter)
             -->  If shows any Error, Install properly following the Step 1
 
